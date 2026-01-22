@@ -1,0 +1,10 @@
+server {
+    listen 8443;
+
+    root /web;
+    index index.html;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+}
