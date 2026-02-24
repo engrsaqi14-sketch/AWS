@@ -8,4 +8,4 @@ Check Scripts folder for Automation Scripts/Snippets of following:
 4. [Jenkins]
 5. [NGINX]
 6. [PowerShell]
-7. [Terraform]
+7. [ Terraform ]
